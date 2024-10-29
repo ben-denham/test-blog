@@ -1,3 +1,3 @@
 # Entry 1
 
-This is my first journal entry!
+I've just learned how to commit changes in Git!
